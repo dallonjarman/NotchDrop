@@ -18,16 +18,16 @@ Learned about NotchNook and I think I can make it better oneday. Using this proj
 - [x] Free of charge if you do it yourself
 
 ## ⏳ Planned Addiitons
-- [+] Apple Music Support
-- [+] Spotify Support
-- [+] Timer Support
-- [+] Camera Support
-- [+] Quick Open Support
-- [+] Shortcut Support
-- [+] Phone + Facetime Support
-- [+] Find a way to add notifcation Support
-- [+] iMessage Support
-- [+] Make it 1 to 1 with the iPhone notch
+- [ ] Apple Music Support
+- [ ] Spotify Support
+- [ ] Timer Support
+- [ ] Camera Support
+- [ ] Quick Open Support
+- [ ] Shortcut Support
+- [ ] Phone + Facetime Support
+- [ ] Find a way to add notifcation Support
+- [ ] iMessage Support
+- [ ] Make it 1 to 1 with the iPhone notch
 
 ## 🚀 Usage
 
