@@ -1,10 +1,6 @@
 # NotchDrop
 
-Transform your MacBook's notch into a convenient file drop zone.
-
-[简体中文 🇨🇳](./Resources/i18n/zh-Hans/README.md)
-
-[![App Store Icon](./Resources/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/app/notchdrop/id6529528324)
+Learned about NotchNook and I think I can make it better oneday. Using this project as a template because I have no idea where to even start :D
 
 ## 👀 Preview
 
@@ -21,9 +17,21 @@ Transform your MacBook's notch into a convenient file drop zone.
 - [x] Fully open source and privacy-focused
 - [x] Free of charge if you do it yourself
 
+## ⏳ Planned Addiitons
+- [+] Apple Music Support
+- [+] Spotify Support
+- [+] Timer Support
+- [+] Camera Support
+- [+] Quick Open Support
+- [+] Shortcut Support
+- [+] Phone + Facetime Support
+- [+] Find a way to add notifcation Support
+- [+] iMessage Support
+- [+] Make it 1 to 1 with the iPhone notch
+
 ## 🚀 Usage
 
-Download the latest version from [Releases](https://github.com/Lakr233/NotchDrop/releases).
+Download the latest version from [Releases](https://github.com/dallonjarman/NotchDrop/releases).
 
 ## 🧑‍⚖️ License
 
